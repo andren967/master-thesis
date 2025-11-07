@@ -1,0 +1,159 @@
+Entity,Code,Year,colonizer_grouped
+Afghanistan,AFG,1884,zzz. Not colonized
+Algeria,DZA,1884,France
+Angola,AGO,1884,Portugal
+Antigua and Barbuda,ATG,1884,United Kingdom
+Argentina,ARG,1884,zzzz. No longer colonized
+Armenia,ARM,1884,zzz. Not colonized
+Australia,AUS,1884,United Kingdom
+Azerbaijan,AZE,1884,zzz. Not colonized
+Bahamas,BHS,1884,United Kingdom
+Bahrain,BHR,1884,United Kingdom
+Bangladesh,BGD,1884,United Kingdom
+Barbados,BRB,1884,United Kingdom
+Belgium,BEL,1884,zz. Colonizer
+Belize,BLZ,1884,United Kingdom
+Benin,BEN,1884,zzz. Not colonized
+Bhutan,BTN,1884,zzz. Not colonized
+Bolivia,BOL,1884,zzzz. No longer colonized
+Botswana,BWA,1884,zzz. Not colonized
+Brazil,BRA,1884,zzzz. No longer colonized
+Brunei,BRN,1884,zzz. Not colonized
+Burkina Faso,BFA,1884,zzz. Not colonized
+Burundi,BDI,1884,zzz. Not colonized
+Cambodia,KHM,1884,France
+Cameroon,CMR,1884,Germany
+Canada,CAN,1884,United Kingdom
+Cape Verde,CPV,1884,Portugal
+Central African Republic,CAF,1884,zzz. Not colonized
+Chad,TCD,1884,zzz. Not colonized
+Chile,CHL,1884,zzzz. No longer colonized
+China,CHN,1884,zzz. Not colonized
+Colombia,COL,1884,zzzz. No longer colonized
+Comoros,COM,1884,zzz. Not colonized
+Congo,COG,1884,France
+Costa Rica,CRI,1884,zzzz. No longer colonized
+Cote d'Ivoire,CIV,1884,zzz. Not colonized
+Cuba,CUB,1884,Spain
+Democratic Republic of Congo,COD,1884,zzz. Not colonized
+Djibouti,DJI,1884,France
+Dominica,DMA,1884,United Kingdom
+Dominican Republic,DOM,1884,zzzz. No longer colonized
+East Timor,TLS,1884,Portugal
+Ecuador,ECU,1884,zzzz. No longer colonized
+Egypt,EGY,1884,United Kingdom
+El Salvador,SLV,1884,zzzz. No longer colonized
+Equatorial Guinea,GNQ,1884,Spain
+Eritrea,ERI,1884,zzz. Not colonized
+Eswatini,SWZ,1884,zzz. Not colonized
+Ethiopia,ETH,1884,zzz. Not colonized
+Fiji,FJI,1884,United Kingdom
+France,FRA,1884,zz. Colonizer
+Gabon,GAB,1884,zzz. Not colonized
+Gambia,GMB,1884,zzz. Not colonized
+Georgia,GEO,1884,zzz. Not colonized
+Germany,DEU,1884,zz. Colonizer
+Ghana,GHA,1884,z. Multiple colonizers
+Grenada,GRD,1884,United Kingdom
+Guatemala,GTM,1884,zzzz. No longer colonized
+Guinea,GIN,1884,France
+Guinea-Bissau,GNB,1884,Portugal
+Guyana,GUY,1884,United Kingdom
+Haiti,HTI,1884,zzzz. No longer colonized
+Honduras,HND,1884,zzzz. No longer colonized
+India,IND,1884,United Kingdom
+Indonesia,IDN,1884,Netherlands
+Iran,IRN,1884,zzz. Not colonized
+Iraq,IRQ,1884,zzz. Not colonized
+Israel,ISR,1884,zzz. Not colonized
+Italy,ITA,1884,zz. Colonizer
+Jamaica,JAM,1884,United Kingdom
+Japan,JPN,1884,zzz. Not colonized
+Jordan,JOR,1884,zzz. Not colonized
+Kazakhstan,KAZ,1884,zzz. Not colonized
+Kenya,KEN,1884,zzz. Not colonized
+Kiribati,KIR,1884,zzz. Not colonized
+Kuwait,KWT,1884,zzz. Not colonized
+Kyrgyzstan,KGZ,1884,zzz. Not colonized
+Laos,LAO,1884,zzz. Not colonized
+Lebanon,LBN,1884,zzz. Not colonized
+Lesotho,LSO,1884,United Kingdom
+Liberia,LBR,1884,zzz. Not colonized
+Libya,LBY,1884,zzz. Not colonized
+Madagascar,MDG,1884,zzz. Not colonized
+Malawi,MWI,1884,zzz. Not colonized
+Malaysia,MYS,1884,zzzz. No longer colonized
+Maldives,MDV,1884,zzz. Not colonized
+Mali,MLI,1884,zzz. Not colonized
+Marshall Islands,MHL,1884,zzz. Not colonized
+Mauritania,MRT,1884,zzz. Not colonized
+Mauritius,MUS,1884,United Kingdom
+Mexico,MEX,1884,zzzz. No longer colonized
+Micronesia (country),FSM,1884,Spain
+Mongolia,MNG,1884,zzz. Not colonized
+Morocco,MAR,1884,Spain
+Mozambique,MOZ,1884,zzz. Not colonized
+Myanmar,MMR,1884,zzz. Not colonized
+Namibia,NAM,1884,zzz. Not colonized
+Nauru,NRU,1884,zzz. Not colonized
+Nepal,NPL,1884,zzz. Not colonized
+Netherlands,NLD,1884,zz. Colonizer
+New Zealand,NZL,1884,United Kingdom
+Nicaragua,NIC,1884,zzzz. No longer colonized
+Niger,NER,1884,zzz. Not colonized
+Nigeria,NGA,1884,zzz. Not colonized
+North Korea,PRK,1884,zzz. Not colonized
+Oman,OMN,1884,zzz. Not colonized
+Pakistan,PAK,1884,United Kingdom
+Palau,PLW,1884,zzz. Not colonized
+Panama,PAN,1884,zzzz. No longer colonized
+Papua New Guinea,PNG,1884,United Kingdom
+Paraguay,PRY,1884,zzzz. No longer colonized
+Peru,PER,1884,zzzz. No longer colonized
+Philippines,PHL,1884,Spain
+Portugal,PRT,1884,zz. Colonizer
+Qatar,QAT,1884,zzz. Not colonized
+Rwanda,RWA,1884,zzz. Not colonized
+Saint Kitts and Nevis,KNA,1884,United Kingdom
+Saint Lucia,LCA,1884,United Kingdom
+Saint Vincent and the Grenadines,VCT,1884,United Kingdom
+Samoa,WSM,1884,zzz. Not colonized
+Sao Tome and Principe,STP,1884,Portugal
+Saudi Arabia,SAU,1884,zzz. Not colonized
+Senegal,SEN,1884,France
+Seychelles,SYC,1884,United Kingdom
+Sierra Leone,SLE,1884,zzz. Not colonized
+Singapore,SGP,1884,United Kingdom
+Solomon Islands,SLB,1884,zzz. Not colonized
+Somalia,SOM,1884,zzz. Not colonized
+South Africa,ZAF,1884,United Kingdom
+South Korea,KOR,1884,zzz. Not colonized
+South Sudan,SSD,1884,zzz. Not colonized
+Spain,ESP,1884,zz. Colonizer
+Sri Lanka,LKA,1884,United Kingdom
+Sudan,SDN,1884,zzz. Not colonized
+Suriname,SUR,1884,Netherlands
+Syria,SYR,1884,zzz. Not colonized
+Taiwan,TWN,1884,zzz. Not colonized
+Tajikistan,TJK,1884,zzz. Not colonized
+Tanzania,TZA,1884,zzz. Not colonized
+Thailand,THA,1884,zzz. Not colonized
+Togo,TGO,1884,zzz. Not colonized
+Tonga,TON,1884,zzz. Not colonized
+Trinidad and Tobago,TTO,1884,United Kingdom
+Tunisia,TUN,1884,France
+Turkey,TUR,1884,zzz. Not colonized
+Turkmenistan,TKM,1884,zzz. Not colonized
+Tuvalu,TUV,1884,zzz. Not colonized
+Uganda,UGA,1884,zzz. Not colonized
+United Arab Emirates,ARE,1884,zzz. Not colonized
+United Kingdom,GBR,1884,zz. Colonizer
+United States,USA,1884,zzzz. No longer colonized
+Uruguay,URY,1884,zzzz. No longer colonized
+Uzbekistan,UZB,1884,zzz. Not colonized
+Vanuatu,VUT,1884,zzz. Not colonized
+Venezuela,VEN,1884,zzzz. No longer colonized
+Vietnam,VNM,1884,zzz. Not colonized
+Yemen,YEM,1884,zzz. Not colonized
+Zambia,ZMB,1884,zzz. Not colonized
+Zimbabwe,ZWE,1884,zzz. Not colonized

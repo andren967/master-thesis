@@ -1,0 +1,159 @@
+Entity,Code,Year,colonizer_grouped
+Afghanistan,AFG,1859,zzz. Not colonized
+Algeria,DZA,1859,France
+Angola,AGO,1859,Portugal
+Antigua and Barbuda,ATG,1859,United Kingdom
+Argentina,ARG,1859,zzzz. No longer colonized
+Armenia,ARM,1859,zzz. Not colonized
+Australia,AUS,1859,United Kingdom
+Azerbaijan,AZE,1859,zzz. Not colonized
+Bahamas,BHS,1859,United Kingdom
+Bahrain,BHR,1859,zzz. Not colonized
+Bangladesh,BGD,1859,United Kingdom
+Barbados,BRB,1859,United Kingdom
+Belgium,BEL,1859,zz. Colonizer
+Belize,BLZ,1859,z. Multiple colonizers
+Benin,BEN,1859,zzz. Not colonized
+Bhutan,BTN,1859,zzz. Not colonized
+Bolivia,BOL,1859,zzzz. No longer colonized
+Botswana,BWA,1859,zzz. Not colonized
+Brazil,BRA,1859,zzzz. No longer colonized
+Brunei,BRN,1859,zzz. Not colonized
+Burkina Faso,BFA,1859,zzz. Not colonized
+Burundi,BDI,1859,zzz. Not colonized
+Cambodia,KHM,1859,zzz. Not colonized
+Cameroon,CMR,1859,zzz. Not colonized
+Canada,CAN,1859,United Kingdom
+Cape Verde,CPV,1859,Portugal
+Central African Republic,CAF,1859,zzz. Not colonized
+Chad,TCD,1859,zzz. Not colonized
+Chile,CHL,1859,zzzz. No longer colonized
+China,CHN,1859,zzz. Not colonized
+Colombia,COL,1859,zzzz. No longer colonized
+Comoros,COM,1859,zzz. Not colonized
+Congo,COG,1859,zzz. Not colonized
+Costa Rica,CRI,1859,zzzz. No longer colonized
+Cote d'Ivoire,CIV,1859,zzz. Not colonized
+Cuba,CUB,1859,Spain
+Democratic Republic of Congo,COD,1859,zzz. Not colonized
+Djibouti,DJI,1859,zzz. Not colonized
+Dominica,DMA,1859,United Kingdom
+Dominican Republic,DOM,1859,Spain
+East Timor,TLS,1859,Portugal
+Ecuador,ECU,1859,zzzz. No longer colonized
+Egypt,EGY,1859,zzz. Not colonized
+El Salvador,SLV,1859,zzzz. No longer colonized
+Equatorial Guinea,GNQ,1859,Spain
+Eritrea,ERI,1859,zzz. Not colonized
+Eswatini,SWZ,1859,zzz. Not colonized
+Ethiopia,ETH,1859,zzz. Not colonized
+Fiji,FJI,1859,zzz. Not colonized
+France,FRA,1859,zz. Colonizer
+Gabon,GAB,1859,zzz. Not colonized
+Gambia,GMB,1859,zzz. Not colonized
+Georgia,GEO,1859,zzz. Not colonized
+Germany,DEU,1859,zz. Colonizer
+Ghana,GHA,1859,zzzz. No longer colonized
+Grenada,GRD,1859,United Kingdom
+Guatemala,GTM,1859,zzzz. No longer colonized
+Guinea,GIN,1859,zzz. Not colonized
+Guinea-Bissau,GNB,1859,zzz. Not colonized
+Guyana,GUY,1859,United Kingdom
+Haiti,HTI,1859,zzzz. No longer colonized
+Honduras,HND,1859,zzzz. No longer colonized
+India,IND,1859,United Kingdom
+Indonesia,IDN,1859,Netherlands
+Iran,IRN,1859,zzz. Not colonized
+Iraq,IRQ,1859,zzz. Not colonized
+Israel,ISR,1859,zzz. Not colonized
+Italy,ITA,1859,zz. Colonizer
+Jamaica,JAM,1859,United Kingdom
+Japan,JPN,1859,zzz. Not colonized
+Jordan,JOR,1859,zzz. Not colonized
+Kazakhstan,KAZ,1859,zzz. Not colonized
+Kenya,KEN,1859,zzz. Not colonized
+Kiribati,KIR,1859,zzz. Not colonized
+Kuwait,KWT,1859,zzz. Not colonized
+Kyrgyzstan,KGZ,1859,zzz. Not colonized
+Laos,LAO,1859,zzz. Not colonized
+Lebanon,LBN,1859,zzz. Not colonized
+Lesotho,LSO,1859,zzz. Not colonized
+Liberia,LBR,1859,zzz. Not colonized
+Libya,LBY,1859,zzz. Not colonized
+Madagascar,MDG,1859,zzz. Not colonized
+Malawi,MWI,1859,zzz. Not colonized
+Malaysia,MYS,1859,zzzz. No longer colonized
+Maldives,MDV,1859,zzz. Not colonized
+Mali,MLI,1859,zzz. Not colonized
+Marshall Islands,MHL,1859,zzz. Not colonized
+Mauritania,MRT,1859,zzz. Not colonized
+Mauritius,MUS,1859,United Kingdom
+Mexico,MEX,1859,zzzz. No longer colonized
+Micronesia (country),FSM,1859,Spain
+Mongolia,MNG,1859,zzz. Not colonized
+Morocco,MAR,1859,zzz. Not colonized
+Mozambique,MOZ,1859,zzz. Not colonized
+Myanmar,MMR,1859,zzz. Not colonized
+Namibia,NAM,1859,zzz. Not colonized
+Nauru,NRU,1859,zzz. Not colonized
+Nepal,NPL,1859,zzz. Not colonized
+Netherlands,NLD,1859,zz. Colonizer
+New Zealand,NZL,1859,United Kingdom
+Nicaragua,NIC,1859,zzzz. No longer colonized
+Niger,NER,1859,zzz. Not colonized
+Nigeria,NGA,1859,zzz. Not colonized
+North Korea,PRK,1859,zzz. Not colonized
+Oman,OMN,1859,zzz. Not colonized
+Pakistan,PAK,1859,United Kingdom
+Palau,PLW,1859,zzz. Not colonized
+Panama,PAN,1859,zzzz. No longer colonized
+Papua New Guinea,PNG,1859,zzz. Not colonized
+Paraguay,PRY,1859,zzzz. No longer colonized
+Peru,PER,1859,zzzz. No longer colonized
+Philippines,PHL,1859,Spain
+Portugal,PRT,1859,zz. Colonizer
+Qatar,QAT,1859,zzz. Not colonized
+Rwanda,RWA,1859,zzz. Not colonized
+Saint Kitts and Nevis,KNA,1859,United Kingdom
+Saint Lucia,LCA,1859,United Kingdom
+Saint Vincent and the Grenadines,VCT,1859,United Kingdom
+Samoa,WSM,1859,zzz. Not colonized
+Sao Tome and Principe,STP,1859,Portugal
+Saudi Arabia,SAU,1859,zzz. Not colonized
+Senegal,SEN,1859,France
+Seychelles,SYC,1859,United Kingdom
+Sierra Leone,SLE,1859,zzz. Not colonized
+Singapore,SGP,1859,United Kingdom
+Solomon Islands,SLB,1859,zzz. Not colonized
+Somalia,SOM,1859,zzz. Not colonized
+South Africa,ZAF,1859,United Kingdom
+South Korea,KOR,1859,zzz. Not colonized
+South Sudan,SSD,1859,zzz. Not colonized
+Spain,ESP,1859,zz. Colonizer
+Sri Lanka,LKA,1859,United Kingdom
+Sudan,SDN,1859,zzz. Not colonized
+Suriname,SUR,1859,Netherlands
+Syria,SYR,1859,zzz. Not colonized
+Taiwan,TWN,1859,zzz. Not colonized
+Tajikistan,TJK,1859,zzz. Not colonized
+Tanzania,TZA,1859,zzz. Not colonized
+Thailand,THA,1859,zzz. Not colonized
+Togo,TGO,1859,zzz. Not colonized
+Tonga,TON,1859,zzz. Not colonized
+Trinidad and Tobago,TTO,1859,United Kingdom
+Tunisia,TUN,1859,zzz. Not colonized
+Turkey,TUR,1859,zzz. Not colonized
+Turkmenistan,TKM,1859,zzz. Not colonized
+Tuvalu,TUV,1859,zzz. Not colonized
+Uganda,UGA,1859,zzz. Not colonized
+United Arab Emirates,ARE,1859,zzz. Not colonized
+United Kingdom,GBR,1859,zz. Colonizer
+United States,USA,1859,zzzz. No longer colonized
+Uruguay,URY,1859,zzzz. No longer colonized
+Uzbekistan,UZB,1859,zzz. Not colonized
+Vanuatu,VUT,1859,zzz. Not colonized
+Venezuela,VEN,1859,zzzz. No longer colonized
+Vietnam,VNM,1859,zzz. Not colonized
+Yemen,YEM,1859,zzz. Not colonized
+Zambia,ZMB,1859,zzz. Not colonized
+Zimbabwe,ZWE,1859,zzz. Not colonized

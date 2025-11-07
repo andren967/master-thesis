@@ -1,0 +1,159 @@
+Entity,Code,Year,colonizer_grouped
+Afghanistan,AFG,1906,zzz. Not colonized
+Algeria,DZA,1906,France
+Angola,AGO,1906,Portugal
+Antigua and Barbuda,ATG,1906,United Kingdom
+Argentina,ARG,1906,zzzz. No longer colonized
+Armenia,ARM,1906,zzz. Not colonized
+Australia,AUS,1906,United Kingdom
+Azerbaijan,AZE,1906,zzz. Not colonized
+Bahamas,BHS,1906,United Kingdom
+Bahrain,BHR,1906,United Kingdom
+Bangladesh,BGD,1906,United Kingdom
+Barbados,BRB,1906,United Kingdom
+Belgium,BEL,1906,zz. Colonizer
+Belize,BLZ,1906,United Kingdom
+Benin,BEN,1906,France
+Bhutan,BTN,1906,zzz. Not colonized
+Bolivia,BOL,1906,zzzz. No longer colonized
+Botswana,BWA,1906,United Kingdom
+Brazil,BRA,1906,zzzz. No longer colonized
+Brunei,BRN,1906,United Kingdom
+Burkina Faso,BFA,1906,France
+Burundi,BDI,1906,Germany
+Cambodia,KHM,1906,France
+Cameroon,CMR,1906,Germany
+Canada,CAN,1906,United Kingdom
+Cape Verde,CPV,1906,Portugal
+Central African Republic,CAF,1906,France
+Chad,TCD,1906,zzz. Not colonized
+Chile,CHL,1906,zzzz. No longer colonized
+China,CHN,1906,zzz. Not colonized
+Colombia,COL,1906,zzzz. No longer colonized
+Comoros,COM,1906,zzz. Not colonized
+Congo,COG,1906,France
+Costa Rica,CRI,1906,zzzz. No longer colonized
+Cote d'Ivoire,CIV,1906,France
+Cuba,CUB,1906,zzzz. No longer colonized
+Democratic Republic of Congo,COD,1906,Belgium
+Djibouti,DJI,1906,France
+Dominica,DMA,1906,United Kingdom
+Dominican Republic,DOM,1906,zzzz. No longer colonized
+East Timor,TLS,1906,Portugal
+Ecuador,ECU,1906,zzzz. No longer colonized
+Egypt,EGY,1906,United Kingdom
+El Salvador,SLV,1906,zzzz. No longer colonized
+Equatorial Guinea,GNQ,1906,Spain
+Eritrea,ERI,1906,Italy
+Eswatini,SWZ,1906,United Kingdom
+Ethiopia,ETH,1906,zzz. Not colonized
+Fiji,FJI,1906,United Kingdom
+France,FRA,1906,zz. Colonizer
+Gabon,GAB,1906,France
+Gambia,GMB,1906,United Kingdom
+Georgia,GEO,1906,zzz. Not colonized
+Germany,DEU,1906,zz. Colonizer
+Ghana,GHA,1906,z. Multiple colonizers
+Grenada,GRD,1906,United Kingdom
+Guatemala,GTM,1906,zzzz. No longer colonized
+Guinea,GIN,1906,France
+Guinea-Bissau,GNB,1906,Portugal
+Guyana,GUY,1906,United Kingdom
+Haiti,HTI,1906,zzzz. No longer colonized
+Honduras,HND,1906,zzzz. No longer colonized
+India,IND,1906,United Kingdom
+Indonesia,IDN,1906,Netherlands
+Iran,IRN,1906,zzz. Not colonized
+Iraq,IRQ,1906,zzz. Not colonized
+Israel,ISR,1906,zzz. Not colonized
+Italy,ITA,1906,zz. Colonizer
+Jamaica,JAM,1906,United Kingdom
+Japan,JPN,1906,zzz. Not colonized
+Jordan,JOR,1906,zzz. Not colonized
+Kazakhstan,KAZ,1906,zzz. Not colonized
+Kenya,KEN,1906,United Kingdom
+Kiribati,KIR,1906,United Kingdom
+Kuwait,KWT,1906,zzz. Not colonized
+Kyrgyzstan,KGZ,1906,zzz. Not colonized
+Laos,LAO,1906,France
+Lebanon,LBN,1906,zzz. Not colonized
+Lesotho,LSO,1906,United Kingdom
+Liberia,LBR,1906,zzz. Not colonized
+Libya,LBY,1906,zzz. Not colonized
+Madagascar,MDG,1906,France
+Malawi,MWI,1906,United Kingdom
+Malaysia,MYS,1906,United Kingdom
+Maldives,MDV,1906,United Kingdom
+Mali,MLI,1906,France
+Marshall Islands,MHL,1906,Germany
+Mauritania,MRT,1906,France
+Mauritius,MUS,1906,United Kingdom
+Mexico,MEX,1906,zzzz. No longer colonized
+Micronesia (country),FSM,1906,zzzz. No longer colonized
+Mongolia,MNG,1906,zzz. Not colonized
+Morocco,MAR,1906,Spain
+Mozambique,MOZ,1906,Portugal
+Myanmar,MMR,1906,United Kingdom
+Namibia,NAM,1906,Germany
+Nauru,NRU,1906,Germany
+Nepal,NPL,1906,zzz. Not colonized
+Netherlands,NLD,1906,zz. Colonizer
+New Zealand,NZL,1906,United Kingdom
+Nicaragua,NIC,1906,zzzz. No longer colonized
+Niger,NER,1906,zzz. Not colonized
+Nigeria,NGA,1906,United Kingdom
+North Korea,PRK,1906,zzz. Not colonized
+Oman,OMN,1906,zzz. Not colonized
+Pakistan,PAK,1906,United Kingdom
+Palau,PLW,1906,Germany
+Panama,PAN,1906,zzzz. No longer colonized
+Papua New Guinea,PNG,1906,United Kingdom
+Paraguay,PRY,1906,zzzz. No longer colonized
+Peru,PER,1906,zzzz. No longer colonized
+Philippines,PHL,1906,zzzz. No longer colonized
+Portugal,PRT,1906,zz. Colonizer
+Qatar,QAT,1906,zzz. Not colonized
+Rwanda,RWA,1906,Germany
+Saint Kitts and Nevis,KNA,1906,United Kingdom
+Saint Lucia,LCA,1906,United Kingdom
+Saint Vincent and the Grenadines,VCT,1906,United Kingdom
+Samoa,WSM,1906,Germany
+Sao Tome and Principe,STP,1906,Portugal
+Saudi Arabia,SAU,1906,zzz. Not colonized
+Senegal,SEN,1906,France
+Seychelles,SYC,1906,United Kingdom
+Sierra Leone,SLE,1906,United Kingdom
+Singapore,SGP,1906,United Kingdom
+Solomon Islands,SLB,1906,z. Multiple colonizers
+Somalia,SOM,1906,z. Multiple colonizers
+South Africa,ZAF,1906,United Kingdom
+South Korea,KOR,1906,zzz. Not colonized
+South Sudan,SSD,1906,zzz. Not colonized
+Spain,ESP,1906,zz. Colonizer
+Sri Lanka,LKA,1906,United Kingdom
+Sudan,SDN,1906,United Kingdom
+Suriname,SUR,1906,Netherlands
+Syria,SYR,1906,zzz. Not colonized
+Taiwan,TWN,1906,zzz. Not colonized
+Tajikistan,TJK,1906,zzz. Not colonized
+Tanzania,TZA,1906,Germany
+Thailand,THA,1906,zzz. Not colonized
+Togo,TGO,1906,Germany
+Tonga,TON,1906,United Kingdom
+Trinidad and Tobago,TTO,1906,United Kingdom
+Tunisia,TUN,1906,France
+Turkey,TUR,1906,zzz. Not colonized
+Turkmenistan,TKM,1906,zzz. Not colonized
+Tuvalu,TUV,1906,United Kingdom
+Uganda,UGA,1906,United Kingdom
+United Arab Emirates,ARE,1906,United Kingdom
+United Kingdom,GBR,1906,zz. Colonizer
+United States,USA,1906,zzzz. No longer colonized
+Uruguay,URY,1906,zzzz. No longer colonized
+Uzbekistan,UZB,1906,zzz. Not colonized
+Vanuatu,VUT,1906,z. Multiple colonizers
+Venezuela,VEN,1906,zzzz. No longer colonized
+Vietnam,VNM,1906,France
+Yemen,YEM,1906,zzz. Not colonized
+Zambia,ZMB,1906,zzz. Not colonized
+Zimbabwe,ZWE,1906,zzz. Not colonized

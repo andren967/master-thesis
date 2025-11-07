@@ -1,0 +1,159 @@
+Entity,Code,Year,colonizer_grouped
+Afghanistan,AFG,1811,zzz. Not colonized
+Algeria,DZA,1811,zzz. Not colonized
+Angola,AGO,1811,Portugal
+Antigua and Barbuda,ATG,1811,United Kingdom
+Argentina,ARG,1811,Spain
+Armenia,ARM,1811,zzz. Not colonized
+Australia,AUS,1811,zzz. Not colonized
+Azerbaijan,AZE,1811,zzz. Not colonized
+Bahamas,BHS,1811,United Kingdom
+Bahrain,BHR,1811,zzz. Not colonized
+Bangladesh,BGD,1811,zzz. Not colonized
+Barbados,BRB,1811,United Kingdom
+Belgium,BEL,1811,zz. Colonizer
+Belize,BLZ,1811,z. Multiple colonizers
+Benin,BEN,1811,zzz. Not colonized
+Bhutan,BTN,1811,zzz. Not colonized
+Bolivia,BOL,1811,Spain
+Botswana,BWA,1811,zzz. Not colonized
+Brazil,BRA,1811,Portugal
+Brunei,BRN,1811,zzz. Not colonized
+Burkina Faso,BFA,1811,zzz. Not colonized
+Burundi,BDI,1811,zzz. Not colonized
+Cambodia,KHM,1811,zzz. Not colonized
+Cameroon,CMR,1811,zzz. Not colonized
+Canada,CAN,1811,United Kingdom
+Cape Verde,CPV,1811,Portugal
+Central African Republic,CAF,1811,zzz. Not colonized
+Chad,TCD,1811,zzz. Not colonized
+Chile,CHL,1811,Spain
+China,CHN,1811,zzz. Not colonized
+Colombia,COL,1811,Spain
+Comoros,COM,1811,zzz. Not colonized
+Congo,COG,1811,zzz. Not colonized
+Costa Rica,CRI,1811,Spain
+Cote d'Ivoire,CIV,1811,zzz. Not colonized
+Cuba,CUB,1811,Spain
+Democratic Republic of Congo,COD,1811,zzz. Not colonized
+Djibouti,DJI,1811,zzz. Not colonized
+Dominica,DMA,1811,United Kingdom
+Dominican Republic,DOM,1811,Spain
+East Timor,TLS,1811,Portugal
+Ecuador,ECU,1811,Spain
+Egypt,EGY,1811,zzz. Not colonized
+El Salvador,SLV,1811,Spain
+Equatorial Guinea,GNQ,1811,zzzz. No longer colonized
+Eritrea,ERI,1811,zzz. Not colonized
+Eswatini,SWZ,1811,zzz. Not colonized
+Ethiopia,ETH,1811,zzz. Not colonized
+Fiji,FJI,1811,zzz. Not colonized
+France,FRA,1811,zz. Colonizer
+Gabon,GAB,1811,zzz. Not colonized
+Gambia,GMB,1811,zzz. Not colonized
+Georgia,GEO,1811,zzz. Not colonized
+Germany,DEU,1811,zz. Colonizer
+Ghana,GHA,1811,Portugal
+Grenada,GRD,1811,United Kingdom
+Guatemala,GTM,1811,Spain
+Guinea,GIN,1811,zzz. Not colonized
+Guinea-Bissau,GNB,1811,zzz. Not colonized
+Guyana,GUY,1811,Netherlands
+Haiti,HTI,1811,zzzz. No longer colonized
+Honduras,HND,1811,Spain
+India,IND,1811,zzz. Not colonized
+Indonesia,IDN,1811,Netherlands
+Iran,IRN,1811,zzz. Not colonized
+Iraq,IRQ,1811,zzz. Not colonized
+Israel,ISR,1811,zzz. Not colonized
+Italy,ITA,1811,zz. Colonizer
+Jamaica,JAM,1811,United Kingdom
+Japan,JPN,1811,zzz. Not colonized
+Jordan,JOR,1811,zzz. Not colonized
+Kazakhstan,KAZ,1811,zzz. Not colonized
+Kenya,KEN,1811,zzz. Not colonized
+Kiribati,KIR,1811,zzz. Not colonized
+Kuwait,KWT,1811,zzz. Not colonized
+Kyrgyzstan,KGZ,1811,zzz. Not colonized
+Laos,LAO,1811,zzz. Not colonized
+Lebanon,LBN,1811,zzz. Not colonized
+Lesotho,LSO,1811,zzz. Not colonized
+Liberia,LBR,1811,zzz. Not colonized
+Libya,LBY,1811,zzz. Not colonized
+Madagascar,MDG,1811,zzz. Not colonized
+Malawi,MWI,1811,zzz. Not colonized
+Malaysia,MYS,1811,zzzz. No longer colonized
+Maldives,MDV,1811,zzz. Not colonized
+Mali,MLI,1811,zzz. Not colonized
+Marshall Islands,MHL,1811,zzz. Not colonized
+Mauritania,MRT,1811,zzz. Not colonized
+Mauritius,MUS,1811,United Kingdom
+Mexico,MEX,1811,Spain
+Micronesia (country),FSM,1811,Spain
+Mongolia,MNG,1811,zzz. Not colonized
+Morocco,MAR,1811,zzz. Not colonized
+Mozambique,MOZ,1811,zzz. Not colonized
+Myanmar,MMR,1811,zzz. Not colonized
+Namibia,NAM,1811,zzz. Not colonized
+Nauru,NRU,1811,zzz. Not colonized
+Nepal,NPL,1811,zzz. Not colonized
+Netherlands,NLD,1811,zz. Colonizer
+New Zealand,NZL,1811,zzz. Not colonized
+Nicaragua,NIC,1811,Spain
+Niger,NER,1811,zzz. Not colonized
+Nigeria,NGA,1811,zzz. Not colonized
+North Korea,PRK,1811,zzz. Not colonized
+Oman,OMN,1811,zzz. Not colonized
+Pakistan,PAK,1811,zzz. Not colonized
+Palau,PLW,1811,zzz. Not colonized
+Panama,PAN,1811,Spain
+Papua New Guinea,PNG,1811,zzz. Not colonized
+Paraguay,PRY,1811,Spain
+Peru,PER,1811,Spain
+Philippines,PHL,1811,Spain
+Portugal,PRT,1811,zz. Colonizer
+Qatar,QAT,1811,zzz. Not colonized
+Rwanda,RWA,1811,zzz. Not colonized
+Saint Kitts and Nevis,KNA,1811,United Kingdom
+Saint Lucia,LCA,1811,France
+Saint Vincent and the Grenadines,VCT,1811,United Kingdom
+Samoa,WSM,1811,zzz. Not colonized
+Sao Tome and Principe,STP,1811,Portugal
+Saudi Arabia,SAU,1811,zzz. Not colonized
+Senegal,SEN,1811,United Kingdom
+Seychelles,SYC,1811,zzzz. No longer colonized
+Sierra Leone,SLE,1811,zzz. Not colonized
+Singapore,SGP,1811,zzz. Not colonized
+Solomon Islands,SLB,1811,zzz. Not colonized
+Somalia,SOM,1811,zzz. Not colonized
+South Africa,ZAF,1811,zzzz. No longer colonized
+South Korea,KOR,1811,zzz. Not colonized
+South Sudan,SSD,1811,zzz. Not colonized
+Spain,ESP,1811,zz. Colonizer
+Sri Lanka,LKA,1811,United Kingdom
+Sudan,SDN,1811,zzz. Not colonized
+Suriname,SUR,1811,Netherlands
+Syria,SYR,1811,zzz. Not colonized
+Taiwan,TWN,1811,zzz. Not colonized
+Tajikistan,TJK,1811,zzz. Not colonized
+Tanzania,TZA,1811,zzz. Not colonized
+Thailand,THA,1811,zzz. Not colonized
+Togo,TGO,1811,zzz. Not colonized
+Tonga,TON,1811,zzz. Not colonized
+Trinidad and Tobago,TTO,1811,United Kingdom
+Tunisia,TUN,1811,zzz. Not colonized
+Turkey,TUR,1811,zzz. Not colonized
+Turkmenistan,TKM,1811,zzz. Not colonized
+Tuvalu,TUV,1811,zzz. Not colonized
+Uganda,UGA,1811,zzz. Not colonized
+United Arab Emirates,ARE,1811,zzz. Not colonized
+United Kingdom,GBR,1811,zz. Colonizer
+United States,USA,1811,zzzz. No longer colonized
+Uruguay,URY,1811,z. Multiple colonizers
+Uzbekistan,UZB,1811,zzz. Not colonized
+Vanuatu,VUT,1811,zzz. Not colonized
+Venezuela,VEN,1811,Spain
+Vietnam,VNM,1811,zzz. Not colonized
+Yemen,YEM,1811,zzz. Not colonized
+Zambia,ZMB,1811,zzz. Not colonized
+Zimbabwe,ZWE,1811,zzz. Not colonized

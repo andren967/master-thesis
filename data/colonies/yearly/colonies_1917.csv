@@ -1,0 +1,160 @@
+Entity,Code,Year,colonizer_grouped
+Afghanistan,AFG,1917,zzz. Not colonized
+Algeria,DZA,1917,France
+Angola,AGO,1917,Portugal
+Antigua and Barbuda,ATG,1917,United Kingdom
+Argentina,ARG,1917,zzzz. No longer colonized
+Armenia,ARM,1917,zzz. Not colonized
+Australia,AUS,1917,United Kingdom
+Azerbaijan,AZE,1917,zzz. Not colonized
+Bahamas,BHS,1917,United Kingdom
+Bahrain,BHR,1917,United Kingdom
+Bangladesh,BGD,1917,United Kingdom
+Barbados,BRB,1917,United Kingdom
+Belgium,BEL,1917,zz. Colonizer
+Belize,BLZ,1917,United Kingdom
+Benin,BEN,1917,France
+Bhutan,BTN,1917,United Kingdom
+Bolivia,BOL,1917,zzzz. No longer colonized
+Botswana,BWA,1917,United Kingdom
+Brazil,BRA,1917,zzzz. No longer colonized
+Brunei,BRN,1917,United Kingdom
+Burkina Faso,BFA,1917,France
+Burundi,BDI,1917,Germany
+Cambodia,KHM,1917,France
+Cameroon,CMR,1917,zzzz. No longer colonized
+Canada,CAN,1917,United Kingdom
+Cape Verde,CPV,1917,Portugal
+Central African Republic,CAF,1917,France
+Chad,TCD,1917,France
+Chile,CHL,1917,zzzz. No longer colonized
+China,CHN,1917,zzz. Not colonized
+Colombia,COL,1917,zzzz. No longer colonized
+Comoros,COM,1917,France
+Congo,COG,1917,France
+Costa Rica,CRI,1917,zzzz. No longer colonized
+Cote d'Ivoire,CIV,1917,France
+Cuba,CUB,1917,zzzz. No longer colonized
+Cyprus,CYP,1917,United Kingdom
+Democratic Republic of Congo,COD,1917,Belgium
+Djibouti,DJI,1917,France
+Dominica,DMA,1917,United Kingdom
+Dominican Republic,DOM,1917,zzzz. No longer colonized
+East Timor,TLS,1917,Portugal
+Ecuador,ECU,1917,zzzz. No longer colonized
+Egypt,EGY,1917,United Kingdom
+El Salvador,SLV,1917,zzzz. No longer colonized
+Equatorial Guinea,GNQ,1917,Spain
+Eritrea,ERI,1917,Italy
+Eswatini,SWZ,1917,United Kingdom
+Ethiopia,ETH,1917,zzz. Not colonized
+Fiji,FJI,1917,United Kingdom
+France,FRA,1917,zz. Colonizer
+Gabon,GAB,1917,France
+Gambia,GMB,1917,United Kingdom
+Georgia,GEO,1917,zzz. Not colonized
+Germany,DEU,1917,zz. Colonizer
+Ghana,GHA,1917,United Kingdom
+Grenada,GRD,1917,United Kingdom
+Guatemala,GTM,1917,zzzz. No longer colonized
+Guinea,GIN,1917,France
+Guinea-Bissau,GNB,1917,Portugal
+Guyana,GUY,1917,United Kingdom
+Haiti,HTI,1917,zzzz. No longer colonized
+Honduras,HND,1917,zzzz. No longer colonized
+India,IND,1917,United Kingdom
+Indonesia,IDN,1917,Netherlands
+Iran,IRN,1917,zzz. Not colonized
+Iraq,IRQ,1917,zzz. Not colonized
+Israel,ISR,1917,zzz. Not colonized
+Italy,ITA,1917,zz. Colonizer
+Jamaica,JAM,1917,United Kingdom
+Japan,JPN,1917,zzz. Not colonized
+Jordan,JOR,1917,zzz. Not colonized
+Kazakhstan,KAZ,1917,zzz. Not colonized
+Kenya,KEN,1917,United Kingdom
+Kiribati,KIR,1917,United Kingdom
+Kuwait,KWT,1917,United Kingdom
+Kyrgyzstan,KGZ,1917,zzz. Not colonized
+Laos,LAO,1917,France
+Lebanon,LBN,1917,zzz. Not colonized
+Lesotho,LSO,1917,United Kingdom
+Liberia,LBR,1917,zzz. Not colonized
+Libya,LBY,1917,Italy
+Madagascar,MDG,1917,France
+Malawi,MWI,1917,United Kingdom
+Malaysia,MYS,1917,United Kingdom
+Maldives,MDV,1917,United Kingdom
+Mali,MLI,1917,France
+Marshall Islands,MHL,1917,zzzz. No longer colonized
+Mauritania,MRT,1917,France
+Mauritius,MUS,1917,United Kingdom
+Mexico,MEX,1917,zzzz. No longer colonized
+Micronesia (country),FSM,1917,zzzz. No longer colonized
+Mongolia,MNG,1917,zzz. Not colonized
+Morocco,MAR,1917,z. Multiple colonizers
+Mozambique,MOZ,1917,Portugal
+Myanmar,MMR,1917,United Kingdom
+Namibia,NAM,1917,United Kingdom
+Nauru,NRU,1917,United Kingdom
+Nepal,NPL,1917,zzz. Not colonized
+Netherlands,NLD,1917,zz. Colonizer
+New Zealand,NZL,1917,United Kingdom
+Nicaragua,NIC,1917,zzzz. No longer colonized
+Niger,NER,1917,zzz. Not colonized
+Nigeria,NGA,1917,United Kingdom
+North Korea,PRK,1917,zzz. Not colonized
+Oman,OMN,1917,zzz. Not colonized
+Pakistan,PAK,1917,United Kingdom
+Palau,PLW,1917,zzzz. No longer colonized
+Panama,PAN,1917,zzzz. No longer colonized
+Papua New Guinea,PNG,1917,United Kingdom
+Paraguay,PRY,1917,zzzz. No longer colonized
+Peru,PER,1917,zzzz. No longer colonized
+Philippines,PHL,1917,zzzz. No longer colonized
+Portugal,PRT,1917,zz. Colonizer
+Qatar,QAT,1917,United Kingdom
+Rwanda,RWA,1917,zzzz. No longer colonized
+Saint Kitts and Nevis,KNA,1917,United Kingdom
+Saint Lucia,LCA,1917,United Kingdom
+Saint Vincent and the Grenadines,VCT,1917,United Kingdom
+Samoa,WSM,1917,United Kingdom
+Sao Tome and Principe,STP,1917,Portugal
+Saudi Arabia,SAU,1917,zzz. Not colonized
+Senegal,SEN,1917,France
+Seychelles,SYC,1917,United Kingdom
+Sierra Leone,SLE,1917,United Kingdom
+Singapore,SGP,1917,United Kingdom
+Solomon Islands,SLB,1917,z. Multiple colonizers
+Somalia,SOM,1917,z. Multiple colonizers
+South Africa,ZAF,1917,United Kingdom
+South Korea,KOR,1917,zzz. Not colonized
+South Sudan,SSD,1917,zzz. Not colonized
+Spain,ESP,1917,zz. Colonizer
+Sri Lanka,LKA,1917,United Kingdom
+Sudan,SDN,1917,United Kingdom
+Suriname,SUR,1917,Netherlands
+Syria,SYR,1917,zzz. Not colonized
+Taiwan,TWN,1917,zzz. Not colonized
+Tajikistan,TJK,1917,zzz. Not colonized
+Tanzania,TZA,1917,Germany
+Thailand,THA,1917,zzz. Not colonized
+Togo,TGO,1917,zzzz. No longer colonized
+Tonga,TON,1917,United Kingdom
+Trinidad and Tobago,TTO,1917,United Kingdom
+Tunisia,TUN,1917,France
+Turkey,TUR,1917,zzz. Not colonized
+Turkmenistan,TKM,1917,zzz. Not colonized
+Tuvalu,TUV,1917,United Kingdom
+Uganda,UGA,1917,United Kingdom
+United Arab Emirates,ARE,1917,United Kingdom
+United Kingdom,GBR,1917,zz. Colonizer
+United States,USA,1917,zzzz. No longer colonized
+Uruguay,URY,1917,zzzz. No longer colonized
+Uzbekistan,UZB,1917,zzz. Not colonized
+Vanuatu,VUT,1917,z. Multiple colonizers
+Venezuela,VEN,1917,zzzz. No longer colonized
+Vietnam,VNM,1917,France
+Yemen,YEM,1917,zzz. Not colonized
+Zambia,ZMB,1917,zzz. Not colonized
+Zimbabwe,ZWE,1917,zzz. Not colonized

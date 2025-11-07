@@ -1,0 +1,9 @@
+Q1 - K-means clustering in QGIS
+I ran this clustering as a batch process using the data from the folder "data/periods_5years" as input files.
+The results were saved in "data/clustering_kmeans4".
+The parameters for the clustering algorithm were the following:
+
+- Number of clustering: 	4
+- Method: 					Farthest Point
+- Cluster field name: 		CLUSTER_ID
+- Cluster size filed name: 	CLUSTER_SIZE

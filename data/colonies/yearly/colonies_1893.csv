@@ -1,0 +1,159 @@
+Entity,Code,Year,colonizer_grouped
+Afghanistan,AFG,1893,zzz. Not colonized
+Algeria,DZA,1893,France
+Angola,AGO,1893,Portugal
+Antigua and Barbuda,ATG,1893,United Kingdom
+Argentina,ARG,1893,zzzz. No longer colonized
+Armenia,ARM,1893,zzz. Not colonized
+Australia,AUS,1893,United Kingdom
+Azerbaijan,AZE,1893,zzz. Not colonized
+Bahamas,BHS,1893,United Kingdom
+Bahrain,BHR,1893,United Kingdom
+Bangladesh,BGD,1893,United Kingdom
+Barbados,BRB,1893,United Kingdom
+Belgium,BEL,1893,zz. Colonizer
+Belize,BLZ,1893,United Kingdom
+Benin,BEN,1893,zzz. Not colonized
+Bhutan,BTN,1893,zzz. Not colonized
+Bolivia,BOL,1893,zzzz. No longer colonized
+Botswana,BWA,1893,zzz. Not colonized
+Brazil,BRA,1893,zzzz. No longer colonized
+Brunei,BRN,1893,United Kingdom
+Burkina Faso,BFA,1893,zzz. Not colonized
+Burundi,BDI,1893,zzz. Not colonized
+Cambodia,KHM,1893,France
+Cameroon,CMR,1893,Germany
+Canada,CAN,1893,United Kingdom
+Cape Verde,CPV,1893,Portugal
+Central African Republic,CAF,1893,zzz. Not colonized
+Chad,TCD,1893,zzz. Not colonized
+Chile,CHL,1893,zzzz. No longer colonized
+China,CHN,1893,zzz. Not colonized
+Colombia,COL,1893,zzzz. No longer colonized
+Comoros,COM,1893,zzz. Not colonized
+Congo,COG,1893,France
+Costa Rica,CRI,1893,zzzz. No longer colonized
+Cote d'Ivoire,CIV,1893,France
+Cuba,CUB,1893,Spain
+Democratic Republic of Congo,COD,1893,Belgium
+Djibouti,DJI,1893,France
+Dominica,DMA,1893,United Kingdom
+Dominican Republic,DOM,1893,zzzz. No longer colonized
+East Timor,TLS,1893,Portugal
+Ecuador,ECU,1893,zzzz. No longer colonized
+Egypt,EGY,1893,United Kingdom
+El Salvador,SLV,1893,zzzz. No longer colonized
+Equatorial Guinea,GNQ,1893,Spain
+Eritrea,ERI,1893,Italy
+Eswatini,SWZ,1893,zzz. Not colonized
+Ethiopia,ETH,1893,zzz. Not colonized
+Fiji,FJI,1893,United Kingdom
+France,FRA,1893,zz. Colonizer
+Gabon,GAB,1893,France
+Gambia,GMB,1893,United Kingdom
+Georgia,GEO,1893,zzz. Not colonized
+Germany,DEU,1893,zz. Colonizer
+Ghana,GHA,1893,z. Multiple colonizers
+Grenada,GRD,1893,United Kingdom
+Guatemala,GTM,1893,zzzz. No longer colonized
+Guinea,GIN,1893,France
+Guinea-Bissau,GNB,1893,Portugal
+Guyana,GUY,1893,United Kingdom
+Haiti,HTI,1893,zzzz. No longer colonized
+Honduras,HND,1893,zzzz. No longer colonized
+India,IND,1893,United Kingdom
+Indonesia,IDN,1893,Netherlands
+Iran,IRN,1893,zzz. Not colonized
+Iraq,IRQ,1893,zzz. Not colonized
+Israel,ISR,1893,zzz. Not colonized
+Italy,ITA,1893,zz. Colonizer
+Jamaica,JAM,1893,United Kingdom
+Japan,JPN,1893,zzz. Not colonized
+Jordan,JOR,1893,zzz. Not colonized
+Kazakhstan,KAZ,1893,zzz. Not colonized
+Kenya,KEN,1893,zzz. Not colonized
+Kiribati,KIR,1893,United Kingdom
+Kuwait,KWT,1893,zzz. Not colonized
+Kyrgyzstan,KGZ,1893,zzz. Not colonized
+Laos,LAO,1893,France
+Lebanon,LBN,1893,zzz. Not colonized
+Lesotho,LSO,1893,United Kingdom
+Liberia,LBR,1893,zzz. Not colonized
+Libya,LBY,1893,zzz. Not colonized
+Madagascar,MDG,1893,zzz. Not colonized
+Malawi,MWI,1893,United Kingdom
+Malaysia,MYS,1893,United Kingdom
+Maldives,MDV,1893,United Kingdom
+Mali,MLI,1893,zzz. Not colonized
+Marshall Islands,MHL,1893,Germany
+Mauritania,MRT,1893,zzz. Not colonized
+Mauritius,MUS,1893,United Kingdom
+Mexico,MEX,1893,zzzz. No longer colonized
+Micronesia (country),FSM,1893,Spain
+Mongolia,MNG,1893,zzz. Not colonized
+Morocco,MAR,1893,Spain
+Mozambique,MOZ,1893,Portugal
+Myanmar,MMR,1893,United Kingdom
+Namibia,NAM,1893,Germany
+Nauru,NRU,1893,Germany
+Nepal,NPL,1893,zzz. Not colonized
+Netherlands,NLD,1893,zz. Colonizer
+New Zealand,NZL,1893,United Kingdom
+Nicaragua,NIC,1893,zzzz. No longer colonized
+Niger,NER,1893,zzz. Not colonized
+Nigeria,NGA,1893,zzz. Not colonized
+North Korea,PRK,1893,zzz. Not colonized
+Oman,OMN,1893,zzz. Not colonized
+Pakistan,PAK,1893,United Kingdom
+Palau,PLW,1893,z. Multiple colonizers
+Panama,PAN,1893,zzzz. No longer colonized
+Papua New Guinea,PNG,1893,United Kingdom
+Paraguay,PRY,1893,zzzz. No longer colonized
+Peru,PER,1893,zzzz. No longer colonized
+Philippines,PHL,1893,Spain
+Portugal,PRT,1893,zz. Colonizer
+Qatar,QAT,1893,zzz. Not colonized
+Rwanda,RWA,1893,zzz. Not colonized
+Saint Kitts and Nevis,KNA,1893,United Kingdom
+Saint Lucia,LCA,1893,United Kingdom
+Saint Vincent and the Grenadines,VCT,1893,United Kingdom
+Samoa,WSM,1893,zzz. Not colonized
+Sao Tome and Principe,STP,1893,Portugal
+Saudi Arabia,SAU,1893,zzz. Not colonized
+Senegal,SEN,1893,France
+Seychelles,SYC,1893,United Kingdom
+Sierra Leone,SLE,1893,zzz. Not colonized
+Singapore,SGP,1893,United Kingdom
+Solomon Islands,SLB,1893,z. Multiple colonizers
+Somalia,SOM,1893,United Kingdom
+South Africa,ZAF,1893,United Kingdom
+South Korea,KOR,1893,zzz. Not colonized
+South Sudan,SSD,1893,zzz. Not colonized
+Spain,ESP,1893,zz. Colonizer
+Sri Lanka,LKA,1893,United Kingdom
+Sudan,SDN,1893,zzz. Not colonized
+Suriname,SUR,1893,Netherlands
+Syria,SYR,1893,zzz. Not colonized
+Taiwan,TWN,1893,zzz. Not colonized
+Tajikistan,TJK,1893,zzz. Not colonized
+Tanzania,TZA,1893,Germany
+Thailand,THA,1893,zzz. Not colonized
+Togo,TGO,1893,Germany
+Tonga,TON,1893,zzz. Not colonized
+Trinidad and Tobago,TTO,1893,United Kingdom
+Tunisia,TUN,1893,France
+Turkey,TUR,1893,zzz. Not colonized
+Turkmenistan,TKM,1893,zzz. Not colonized
+Tuvalu,TUV,1893,United Kingdom
+Uganda,UGA,1893,zzz. Not colonized
+United Arab Emirates,ARE,1893,United Kingdom
+United Kingdom,GBR,1893,zz. Colonizer
+United States,USA,1893,zzzz. No longer colonized
+Uruguay,URY,1893,zzzz. No longer colonized
+Uzbekistan,UZB,1893,zzz. Not colonized
+Vanuatu,VUT,1893,France
+Venezuela,VEN,1893,zzzz. No longer colonized
+Vietnam,VNM,1893,France
+Yemen,YEM,1893,zzz. Not colonized
+Zambia,ZMB,1893,zzz. Not colonized
+Zimbabwe,ZWE,1893,zzz. Not colonized
